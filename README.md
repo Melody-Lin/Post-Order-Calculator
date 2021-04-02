@@ -15,3 +15,4 @@ yourPostCalc.l (You need to write this program)
 <br>yourPostCalc.y (You need to write this program)</br>
 
 ### The following table shows a list of operators that may appear in the input equation.
+<img src="https://github.com/Melody-Lin/Post-Order-Calculator/blob/main/sample_input.png" style="zoom:10%" />
